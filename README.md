@@ -541,8 +541,6 @@
 * templates/page.json
 * templates/product.json
 * templates/search.json
-## on
-* templates/gift_card.liquid
 ## sections/announcement-bar.liquid
 * layout/theme.liquid < templates/404.json
 * layout/theme.liquid < templates/article.json
